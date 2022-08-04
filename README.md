@@ -1,1 +1,1 @@
-# html, css, js(accordion)
+# html, css, js(accordion), partial adaptive
