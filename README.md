@@ -1,2 +1,1 @@
-# PsychoArt website
-html + css(animation) + js (accordion)
+# html, css, js(accordion)
